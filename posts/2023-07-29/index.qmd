@@ -1,0 +1,100 @@
+---
+title: "Canadian Rockies"
+date: "2023-07-29"
+date-modified: "2025-06-16"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2023"
+  - British Columbia
+  - Alberta
+  - Suzili
+  - Electra
+---
+
+## Brief Summary
+
+A short road trip to the Canadian Rockies which includes a visit to the town of Banff, a ride along the Icefields Parkway, and a stop at Lake Louise is a perfect way to experience the stunning natural beauty of this region. Many memorable sights, from the turquoise waters of Lake Louise to the towering peaks of the surrounding mountains. We also visited Barkerville, a historic mining town in British Columbia, which provided a fascinating glimpse into the Gold Rush era.
+
+## Miscellaneous Notes
+
+-   Travel dates: 2023-06-26 - 2023-07-06
+
+-   Transportation: 2012 Electra & 2018 Suzili
+
+## Photos
+
+![](images/rockies24.jpeg){group="my-gallery"}
+
+![](images/rockies47.jpeg){group="my-gallery"}
+
+![](images/rockies46.jpeg){group="my-gallery"}
+
+![](images/rockies45.jpeg){group="my-gallery"}
+
+![](images/rockies44.jpeg){group="my-gallery"}
+
+![](images/rockies43.jpeg){group="my-gallery"}
+
+![](images/rockies42.jpeg){group="my-gallery"}
+
+![](images/rockies41.jpeg){group="my-gallery"}
+
+![](images/rockies40.jpeg){group="my-gallery"}
+
+![](images/rockies39.jpeg){group="my-gallery"}
+
+![](images/rockies38.jpeg){group="my-gallery"}
+
+![](images/rockies37.jpeg){group="my-gallery"}
+
+![](images/rockies36.jpeg){group="my-gallery"}
+
+![](images/rockies35.jpeg){group="my-gallery"}
+
+![](images/rockies34.jpeg){group="my-gallery"}
+
+![](images/rockies33.jpeg){group="my-gallery"}
+
+![](images/rockies32.jpeg){group="my-gallery"}
+
+![](images/rockies31.jpeg){group="my-gallery"}
+
+![](images/rockies30.jpeg){group="my-gallery"}
+
+![](images/rockies29.jpeg){group="my-gallery"}
+
+![](images/rockies27.jpeg){group="my-gallery"}
+
+![](images/rockies26.jpeg){group="my-gallery"}
+
+![](images/rockies25.jpeg){group="my-gallery"}
+
+![](images/rockies22.jpeg){group="my-gallery"}
+
+![](images/rockies21.jpeg){group="my-gallery"}
+
+![](images/rockies20.jpeg){group="my-gallery"}
+
+![](images/rockies19.jpeg){group="my-gallery"}
+
+![](images/rockies18.jpeg){group="my-gallery"}
+
+![](images/rockies17.jpeg){group="my-gallery"}
+
+![](images/rockies16.jpeg){group="my-gallery"}
+
+![](images/rockies15.jpeg){group="my-gallery"}
+
+![](images/rockies14.jpeg){group="my-gallery"}
+
+![](images/rockies13.jpeg){group="my-gallery"}
+
+![](images/rockies12.jpeg){group="my-gallery"}
+
+![](images/rockies11.jpeg){group="my-gallery"}
+
+![](images/rockies10.jpeg){group="my-gallery"}

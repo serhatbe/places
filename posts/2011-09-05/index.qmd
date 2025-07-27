@@ -1,0 +1,19 @@
+---
+title: "Labour Day 2011 in BC"
+date: "2011-09-05"
+date-modified: "2025-06-18"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2011"
+  - British Columbia
+  - Suzy
+  - Nomad
+---
+
+Beautiful British Columbia offers surprisingly scenic and mostly well-maintained roads for a 1,300-kilometre round trip.
+
+![](images/labourday2011.jpeg)

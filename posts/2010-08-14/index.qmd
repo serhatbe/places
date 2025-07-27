@@ -1,0 +1,109 @@
+---
+title: "The Grand Tour of the Western US"
+date: "2010-08-14"
+date-modified: "2025-06-18"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2010"
+  - British Columbia
+  - Washington
+  - Idaho
+  - Utah
+  - Montana
+  - Wyoming
+  - Colorado
+  - Arizona
+  - Nevada
+  - California
+  - Oregon
+  - Suzy
+  - Nomad
+---
+
+![Capitol Reef NP, UT](images/p1410699.jpeg){group="my-gallery"}
+
+![Nomad](images/p1410896.jpeg){group="my-gallery"}
+
+![Nomad](images/p1420383.jpeg){group="my-gallery"}
+
+![Four Corners](images/p1410926.jpeg){group="my-gallery"}
+
+![Avenue of the Giants in Redwoods NP, CA](images/p1410167.jpeg){group="my-gallery"}
+
+We took the long way to Durango, Colorado, and got home on Saturday riding through Washington, Oregon, California, Nevada, Utah, Arizona, New Mexico, Colorado, Wyoming, Montana, and Idaho. We logged more than 8000 km or 5000 miles and visited many national and state parks:
+
+-   Crater Lake NP, OR
+
+-   Avenue of the Giants in Redwoods NP, CA
+
+-   Lassen Volcanic NP, CA
+
+-   Great Basin NP, NV
+
+-   Capitol Reef NP, UT
+
+-   Glen Canyon National Recreational Area, UT
+
+-   Natural Bridges National Monument, UT
+
+-   Valley of the Gods, UT
+
+-   Monument Valley, UT and AZ
+
+-   Four Corners Monument, UT, AZ, NM, CO
+
+-   Arches NP, UT
+
+-   Canyonlands NP (The Needles and Island in the Sky), UT
+
+-   Dead Horse Point SP, UT
+
+I was looking forward to crossing desert on the loneliest road in America, the famous US 50 in Nevada, and we were not disappointed. We also did HWY 93 in Idaho, from Bear Lake, UT, via Garden City, Montpelier, Pocatello, Atomic City, to Salmon (camped there) and Darby. It is the kind of ride you wish it never ended, but you either run out of daylight or run low on gas. Edith says she could ride it three times a year.
+
+So many great roads, so many memories, and so many photos (we snapped around 2000 pix).
+
+Day 21 \| WA and BC \| 546 km
+
+Day 20 \| ID, MT and WA \| 643 km
+
+Day 19 \| UT and ID \| 555 km
+
+Day 18 \| UT, WY and UT \| 613 km
+
+Day 17 \| UT \| 200 km
+
+Day 16 \| UT \| 350 km
+
+Day 15 \| CO and UT \| 410 km
+
+Day 14 \| CO \| 25 km
+
+Day 13 \| Four Corners \| 312 km
+
+Day 12 \| UT and AZ \| 303 km
+
+Day 11 \| UT \| 457 km
+
+Day 10 \| NV and UT \| 408 km
+
+Day 09 \| NV \| 431 km
+
+Day 08 \| NV, CA and NV \| 190 km
+
+Day 07 \| CA and NV \| 300 km
+
+Day 06 \| CA \| 324 km
+
+Day 05 \| CA \| 400 km
+
+Day 04 \| CA \| 268 km
+
+Day 03 \| OR and CA \| 393 km
+
+Day 02 \| OR \| 406 km
+
+Day 01 \| BC, WA and OR \| 642 km

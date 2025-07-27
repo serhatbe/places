@@ -1,0 +1,26 @@
+logo:
+  images:
+    icon: profile.jpeg
+  small: icon
+
+color:
+  palette:
+    orange: "#FF6F20"
+    pink: "#FF3D7F"
+    green: "#28A745"
+    yellow: "#FFC107"
+  primary: orange
+  success: green
+  warning: yellow
+  danger: pink
+
+typography:
+  fonts:
+    - family: Open Sans
+      source: bunny
+    - family: Source Code Pro
+      source: bunny
+  base: Open Sans
+  headings:
+    weight: light
+  monospace: Source Code Pro

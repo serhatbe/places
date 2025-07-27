@@ -1,0 +1,77 @@
+---
+title: "Maui"
+date: "2019-11-23"
+#date-modified: "2024-12-15"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2019"
+  - Hawaii
+---
+
+## Brief Summary
+
+A wonderful vacation.
+
+## Miscellaneous Notes
+
+-   Travel dates:
+
+## Photos
+
+![](images/Maui40.jpeg){group="my-gallery"}
+
+![](images/Maui10.jpeg){group="my-gallery"}
+
+![](images/Maui11.jpeg){group="my-gallery"}
+
+![](images/Maui12.jpeg){group="my-gallery"}
+
+![](images/Maui13.jpeg){group="my-gallery"}
+
+![](images/Maui14.jpeg){group="my-gallery"}
+
+![](images/Maui15.jpeg){group="my-gallery"}
+
+![](images/Maui16.jpeg){group="my-gallery"}
+
+![](images/Maui17.jpeg){group="my-gallery"}
+
+![](images/Maui18.jpeg){group="my-gallery"}
+
+![](images/Maui20.jpeg){group="my-gallery"}
+
+![](images/Maui23.jpeg){group="my-gallery"}
+
+![](images/Maui24.jpeg){group="my-gallery"}
+
+![](images/Maui26.jpeg){group="my-gallery"}
+
+![](images/Maui27.jpeg){group="my-gallery"}
+
+![](images/Maui28.jpeg){group="my-gallery"}
+
+![](images/Maui29.jpeg){group="my-gallery"}
+
+![](images/Maui30.jpeg){group="my-gallery"}
+
+![](images/Maui32.jpeg){group="my-gallery"}
+
+![](images/Maui33.jpeg){group="my-gallery"}
+
+![](images/Maui34.jpeg){group="my-gallery"}
+
+![](images/Maui35.jpeg){group="my-gallery"}
+
+![](images/Maui36.jpeg){group="my-gallery"}
+
+![](images/Maui37.jpeg){group="my-gallery"}
+
+![](images/Maui38.jpeg){group="my-gallery"}
+
+![](images/Maui39.jpeg){group="my-gallery"}
+
+![](images/Maui41.jpeg){group="my-gallery"}

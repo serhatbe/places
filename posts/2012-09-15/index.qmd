@@ -1,0 +1,87 @@
+---
+title: "Electra"
+date: "2012-09-15"
+date-modified: "2025-06-19"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2012"
+  - Electra
+---
+
+2012 Harley-Davidson FLHTC Electra Glide Classic – Canadian Specifications/Technical Details
+
+![2012 Harley-Davidson FLHTC Electra Glide Classic](images/electrafeb17.jpeg)
+
+**Engine**\
+Engine: Air-cooled Twin Cam 103™ with Integrated Oil-Cooler\
+Bore: 98.4 mm\
+Stroke: 111.1 mm\
+Displacement: 1,690 cc\
+Compression Ratio: 9.6:1\
+Fuel System: Electronic Sequential Port Fuel Injection (ESPFI)\
+**Drivetrain**\
+Primary Drive: Chain, 34/46 ratio\
+Gear Ratios (overall) 1st: 9.593\
+Gear Ratios (overall) 2nd: 6.65\
+Gear Ratios (overall) 3rd: 4.938\
+Gear Ratios (overall) 4th: 4\
+Gear Ratios (overall) 5th: 3.407\
+Gear Ratios (overall) 6th: 2.875\
+**Chassis**\
+Exhaust: Chrome, 2-1-2 dual exhaust with tapered muffler\
+Wheels, Optional Style Type: Tubeless Chrome Aluminum Profile Laced\
+Wheels, Front Type: Black, 28-spoke Cast Aluminum\
+Wheels, Rear Type: Black, 28-spoke Cast Aluminum\
+Brakes, Caliper Type: 32mm, 4-piston fixed front and rear\
+Parking Brake: N/A\
+**Performance**\
+Engine Torque Testing Method: J1349\
+Engine Torque: 135 Nm\
+Engine Torque (rpm): 3,250\
+Lean Angle, Right (deg.): 33\
+Lean Angle, Left (deg.): 31\
+Fuel Economy: Combined City/Hwy: 5.6 l/100 km (42 mpg)\
+**Options**\
+Colour: Birch White/Midnight Pearl\
+ABS: Yes\
+Security: Yes\
+Cruise Control: Yes\
+**Dimensions**\
+Length 98.3 in. (2497 mm)\
+Overall Width 38.0 in. (965 mm)\
+Overall Height 61.0 in. (1549 mm)\
+Seat Height:\
+– Laden2 27.3 in. (693 mm)\
+– Unladen 29.1 in. (739 mm)\
+Ground Clearance 5.1 in. (130 mm)\
+Rake (steering head) 26°\
+Fork Angle 29.2°\
+Trail 6.7 in. (170 mm)\
+Wheelbase 63.5 in. (1613 mm)\
+Tires (Dunlop® Harley-Davidson® Series, bias narrow whitewall):\
+– Front – D408F NW 130/80B17 65H\
+– Rear – D407 NW 180/65B16 81H\
+Fuel Capacity 6.0 gal. (22.7 L) (warning light at approximately 1.0 gal.)\
+Oil Capacity (w/filter) 4.0 qts. (3.8 L)\
+Transmission Capacity 1.0 qt. (.95 L)\
+Primary Chain\
+Case Capacity 1.4 qts. (1.3 L)\
+Weight:\
+– As Shipped 827 lbs. (375.1 kg)\
+– In Running Order 864 lbs. (391.9 kg)\
+– Gross Vehicle Weight Rating 1360 lbs. (616.9 kg)\
+– Gross Axle Weight Rating\
+– Front 500 lbs. (226.8 kg)\
+– Rear 927 lbs. (420.5 kg)\
+Luggage Capacity\
+– Volume 2.26 cu. ft. (0.0633 m3)\
+**Electric**\
+Lights (as per country regulation), Indicator Lamps High beam, running lights, front fender running lights, directional light bar, neutral, low oil pressure, engine diagnostics, accessory, speakers, turn signals, security system (optional), 6-speed, low fuel warning, cruise control (optional), ABS (optiona\
+**Gauges**\
+Fairing-mounted electronic speedometer with odometer; time-of-day clock on CD player/stereo; dual trip meter; low fuel indicator light and mileage countdown feature; low oil pressure indicator light; engine diagnostics readout; LED indicator lights; 6-speed indicator light; tachometer with fuel, voltage, oil pressure and ambient air temperature gauges.
+
+![2012 Harley-Davidson FLHTC Electra Glide Classic](images/12_electra-glide-classic.jpeg)

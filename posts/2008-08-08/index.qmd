@@ -1,0 +1,26 @@
+---
+title: "Olympic National Park, WA"
+date: "2008-08-08"
+date-modified: "2025-06-18"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2008"
+  - British Columbia
+  - Washington
+  - Suzy
+  - C50
+---
+
+Our very first road trip on motorcycles was a memorable one. Many lessons were learned, and we had a lot of fun. We started in the early morning, excited and a bit nervous. The google maps was our guide, but we quickly realized that it wasn't always reliable in remote areas.
+
+![](images/img1.jpeg){group="my-gallery"}
+
+![](images/img2.jpeg){group="my-gallery"}
+
+![](images/img3.jpeg){group="my-gallery"}
+
+![](images/img_0036.jpeg){group="my-gallery"}

@@ -1,0 +1,43 @@
+---
+title: "Vulcan"
+date: "2009-02-07"
+date-modified: "2025-06-19"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2009"
+  - Nomad
+---
+
+2008 Kawasaki Vulcan 1600 Nomad Specifications
+
+![2008 Kawasaki Vulcan 1600 Nomad](images/vulcan1600nomad.jpeg)
+
+Engine: Four-stroke, air/liquid-cooled, SOHC, four valves per cylinder, 50-degree V-twin\
+Displacement: 1,552cc / 95ci\
+Bore x stroke: 102.0 x 95.0mm\
+Compression ratio: 9.0:1\
+Maximum torque: 94 lb-ft \@ 2,700 rpm\
+Cooling: Liquid\
+Induction: Digital fuel injection with dual 36mm Kehin throttle bodies\
+Ignition: TCBI dual plug with digital advance\
+Transmission: Five-speed\
+Final drive: Shaft\
+Frame: High-tensile steel, double cradle\
+Rake / trail: 32 degrees / 7.2 in.\
+Front suspension / wheel travel: 41mm hydraulic fork / 5.9 in.\
+Rear suspension / wheel travel: Dual air-assisted shocks with four-way rebound damping / 3.9 in.\
+Front tire: 150/80×16\
+Rear tire: 170/70×16\
+Brakes, front: Dual 300mm hydraulic discs\
+Brakes, rear: 300mm disc\
+Overall length: 99.0 in.\
+Overall width: 40.9 in.\
+Overall height: 59.3 in.\
+Seat height: 28.3 in.\
+Dry weight: 772 lbs.\
+Fuel capacity: 5.3 gal.\
+Wheelbase: 66.5 in.

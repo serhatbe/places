@@ -1,0 +1,55 @@
+---
+title: "Kona & Hilo"
+date: "2024-12-04"
+date-modified: "2024-12-15"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2024"
+  - Hawaii
+---
+
+## Brief Summary
+
+A wonderful vacation, relaxing and exciting. In the Pacific, relaxation was easy. And seeing wildlife, it was quite exciting: manta rays, dolphins, turtles, and wild goats roaming the lava fields. The black pepper plant and cocoa juice, made from cocoa seed pulp, were unforgettable.
+
+## Miscellaneous Notes
+
+-   Travel dates: 2024-11-18 — 2024-11-28
+-   5 days in Kona, the sunny side.
+-   5 days in Hilo, the rainy side.
+
+## Photos
+
+![A Turtle](images/Hawaii01.jpg){group="my-gallery"}
+
+![Macadamia Orchard](images/Hawaii04.jpg){group="my-gallery"}
+
+![Avocado Tree](images/Hawaii03.jpg){group="my-gallery"}
+
+![Caution!](images/Hawaii02a.jpg){group="my-gallery"}
+
+![Coconut Tree](images/Hawaii02.jpg){group="my-gallery"}
+
+![A selfie](images/Hawaii00.jpg){group="my-gallery"}
+
+![Another selfie](images/Hawaii13-01.jpeg){group="my-gallery"}
+
+![](images/Hawaii12-01.jpeg){group="my-gallery"}
+
+![](images/Hawaii11-01.jpeg){group="my-gallery"}
+
+![Budha at Hilton](images/Hawaii10-01.jpeg){group="my-gallery"}
+
+![Lava at Hilton](images/Hawaii9-01.jpeg){group="my-gallery"}
+
+![Dolphins at Hilton](images/Hawaii8-01.jpeg){group="my-gallery"}
+
+![Snack at Queen's Market](images/Hawaii7-01.jpeg){group="my-gallery"}
+
+![Farmer's Market in Hilo](images/Hawaii6-01.jpeg){group="my-gallery"}
+
+![Buffet dinner at Hilo Hotel](images/Hawaii5-01.jpeg){group="my-gallery"}

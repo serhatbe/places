@@ -1,0 +1,39 @@
+---
+title: "New York City"
+date: "2018-04-19"
+#date-modified: "2024-12-15"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2018"
+  - New York
+---
+
+## Brief Summary
+
+A wonderful vacation.
+
+## Miscellaneous Notes
+
+-   Travel dates:
+
+## Photos
+
+![](images/NY%20-%207.jpeg){group="my-gallery"}
+
+![](images/NY%20-%201.jpeg){group="my-gallery"}
+
+![](images/NY%20-%202.jpeg){group="my-gallery"}
+
+![](images/NY%20-%203.jpeg){group="my-gallery"}
+
+![](images/NY%20-%204.jpeg){group="my-gallery"}
+
+![](images/NY%20-%205.jpeg){group="my-gallery"}
+
+![](images/NY%20-%206.jpeg){group="my-gallery"}
+
+![](images/NY%20-%208.jpeg){group="my-gallery"}

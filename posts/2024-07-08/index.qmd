@@ -1,0 +1,76 @@
+---
+title: "Japan"
+draft: false
+date: "2024-07-08"
+date-modified: "2024-12-28"
+date-format: full
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2024"
+  - Japan
+  - Asia
+---
+
+## Brief Summary
+
+Visited Osaka, Kobe, Hiroshima, Takayama, Matsumoto and Tokyo.
+
+## Miscellaneous Notes
+
+-   Travel dates: 2024-06-17 — 2024-07-07
+
+## Photos
+
+![](images/japan25.jpg){group="my-gallery"}
+
+![](images/japan24.jpg){group="my-gallery"}
+
+![](images/japan23.jpg){group="my-gallery"}
+
+![](images/japan22.jpg){group="my-gallery"}
+
+![](images/japan21.jpg){group="my-gallery"}
+
+![](images/japan20.jpg){group="my-gallery"}
+
+![](images/japan19.jpg){group="my-gallery"}
+
+![](images/japan18.jpg){group="my-gallery"}
+
+![](images/japan17.jpg){group="my-gallery"}
+
+![](images/japan16.jpg){group="my-gallery"}
+
+![](images/japan15.jpg){group="my-gallery"}
+
+![](images/japan14.jpg){group="my-gallery"}
+
+![](images/japan13.jpg){group="my-gallery"}
+
+![](images/japan12.jpg){group="my-gallery"}
+
+![](images/japan11.jpg){group="my-gallery"}
+
+![](images/japan10.jpg){group="my-gallery"}
+
+![](images/japan09.jpg){group="my-gallery"}
+
+![](images/japan08.jpg){group="my-gallery"}
+
+![](images/japan07.jpg){group="my-gallery"}
+
+![](images/japan06.jpg){group="my-gallery"}
+
+![](images/japan05.jpg){group="my-gallery"}
+
+![](images/japan04.jpg){group="my-gallery"}
+
+![](images/japan03.jpg){group="my-gallery"}
+
+![](images/japan02.jpg){group="my-gallery"}
+
+![](images/japan01.jpg){group="my-gallery"}

@@ -1,0 +1,65 @@
+---
+title: "Boulevard"
+date: "2007-04-19"
+date-modified: "2025-06-19"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2007"
+  - Suzy
+---
+
+2007 Suzuki Boulevard C50 Specifications
+
+![2007 Suzuki Boulevard C50](images/c50black.jpeg)
+
+Engine: 50 cubic inch, four-stroke, liquid cooled, 45 degree V-twin, SOHC, 8-valves, TSCC
+
+Bore Stroke: 83.0 x 74.4mm
+
+Compression Ratio: 9.4:1
+
+Horsepower: 45.1 wheel horsepower
+
+Torque: 45.7 (62 Nm) \@ 4000 rpm
+
+Fuel System: Fuel Injection
+
+Lubrication: Wet Sump
+
+Ignition: Digital
+
+Transmission: 5-speed
+
+Final Drive: Shaft Drive
+
+Overall Length: 2510mm (98.8 in.)
+
+Overall Width: 970mm (38.2 in.)
+
+Overall Height: 1105mm (46.5 in.)
+
+Seat Height: 700mm (27.6 in.)
+
+Ground Clearance: 140mm (5.5 in.)
+
+Wheelbase: 1655mm (65.2 in.)
+
+Dry Weight: 246kg (542 lbs.)
+
+Suspension Front: Telescopic, coil spring, oil damped
+
+Suspension Rear: Link-type, oil damped, 7-way adjustable spring preload
+
+Brakes Front: Single hydraulic disc
+
+Brakes Rear: Single drum
+
+Tires Front: 130/90-16
+
+Tires Rear: 170/80-15
+
+Fuel Tank Capacity: 15.5 liter (4.1 gal.)

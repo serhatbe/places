@@ -1,0 +1,20 @@
+---
+title: "Cardo G4 PowerSet Intercom Kit"
+date: "2011-02-02"
+date-modified: "2025-06-19"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2011"
+---
+
+We bought this Bluetooth headset in early February, 2011 for \$299.
+
+We tried the intercom during our trip to the [Black Hills, South Dakota](https://continuum.codeberg.page/travel/pages/posts/2011-09-14/). Initially, we were frustrated with the user manual and spent a few days fiddling around with the headsets before giving up. However, we tried them again and finally managed to chat!
+
+![Cardo G4](images/powerset.jpg)
+
+![](images/scalarider_g4_powerset_manual_english.pdf)

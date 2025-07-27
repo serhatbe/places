@@ -1,0 +1,89 @@
+---
+title: "Oahu"
+date: "2025-04-09"
+date-modified: "2025-04-13"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2025"
+  - Hawaii
+---
+
+## Brief Summary
+
+A brief but memorable vacation.
+
+## Miscellaneous Notes
+
+-   Travel dates: 2025-04-01 - 2025-04-08
+
+-   Hotel: Romer House Waikiki
+
+-   Car Rental: None
+
+-   Transportation: On foot and HOLO card on TheBus or at a Skyline station.
+
+## Photos
+
+![](images/ohau11.jpeg){group="my-gallery"}
+
+![](images/ohau10.jpeg){group="my-gallery"}
+
+![](images/ohau12.jpeg){group="my-gallery"}
+
+![](images/ohau13.jpeg){group="my-gallery"}
+
+![](images/ohau14.jpeg){group="my-gallery"}
+
+![](images/ohau15.jpeg){group="my-gallery"}
+
+![](images/ohau16.jpeg){group="my-gallery"}
+
+![](images/ohau17.jpeg){group="my-gallery"}
+
+![](images/ohau18.jpeg){group="my-gallery"}
+
+![](images/ohau19.jpeg){group="my-gallery"}
+
+![](images/ohau20.jpeg){group="my-gallery"}
+
+![](images/ohau21.jpeg){group="my-gallery"}
+
+![](images/ohau22.jpeg){group="my-gallery"}
+
+![](images/ohau23.jpeg){group="my-gallery"}
+
+![](images/ohau24.jpeg){group="my-gallery"}
+
+![](images/ohau25.jpeg){group="my-gallery"}
+
+![](images/ohau26.jpeg){group="my-gallery"}
+
+![](images/ohau27.jpeg){group="my-gallery"}
+
+![](images/ohau28.jpeg){group="my-gallery"}
+
+![](images/ohau29.jpeg){group="my-gallery"}
+
+![](images/ohau30.jpeg){group="my-gallery"}
+
+![](images/ohau31.jpeg){group="my-gallery"}
+
+![](images/ohau32.jpeg){group="my-gallery"}
+
+![](images/ohau33.jpeg){group="my-gallery"}
+
+![](images/ohau34.jpeg){group="my-gallery"}
+
+![](images/ohau35.jpeg){group="my-gallery"}
+
+![](images/ohau36.jpeg){group="my-gallery"}
+
+![](images/ohau37.jpeg){group="my-gallery"}
+
+\![\](images/ohau38.jpeg}{group="my-gallery"}
+
+![](images/ohau39.jpeg){group="my-gallery"}

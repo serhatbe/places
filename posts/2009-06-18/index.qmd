@@ -1,0 +1,34 @@
+---
+title: "North Cascades Loop"
+date: "2009-06-18"
+date-modified: "2025-06-18"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2009"
+  - British Columbia
+  - Washington
+  - Suzy
+  - Nomad
+---
+
+Before our long road trip to the US, we visited the North Cascades National Park. The breathtaking mountains left us grateful for the chance to see such natural beauty. The crisp air and stunning views made it unforgettable.
+
+![](images/northcascades15.jpeg){group="my-gallery"}
+
+![](images/northcascades10.jpeg){group="my-gallery"}
+
+![](images/northcascades11.jpeg){group="my-gallery"}
+
+![](images/northcascades12.jpeg){group="my-gallery"}
+
+![](images/northcascades13.jpeg){group="my-gallery"}
+
+![](images/northcascades14.jpeg){group="my-gallery"}
+
+![](images/northcascades16.jpeg){group="my-gallery"}
+
+![](images/northcascades17.jpeg){group="my-gallery"}

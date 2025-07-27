@@ -1,0 +1,112 @@
+---
+title: "Salt Spring Island"
+draft: false
+date: "2024-09-23"
+date-modified: "2024-12-28"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2024"
+  - British Columbia
+---
+
+## Brief Summary
+
+A relaxing short get-away to Salt Spring Island.
+
+## Miscellaneous Notes
+
+-   Travel dates: 2024-09-04 — 2024-09-09
+
+## Photos
+
+![Caption](images/SSI44.jpeg){group="my-gallery"}
+
+![Caption](images/SSI43.jpeg){group="my-gallery"}
+
+![Caption](images/SSI42.jpeg){group="my-gallery"}
+
+![Caption](images/SSI41.jpeg){group="my-gallery"}
+
+![Caption](images/SSI40.jpeg){group="my-gallery"}
+
+![Caption](images/SSI39.jpeg){group="my-gallery"}
+
+![Caption](images/SSI38.jpeg){group="my-gallery"}
+
+![Caption](images/SSI37.jpeg){group="my-gallery"}
+
+![Caption](images/SSI36.jpeg){group="my-gallery"}
+
+![Caption](images/SSI35.jpeg){group="my-gallery"}
+
+![Caption](images/SSI34.jpeg){group="my-gallery"}
+
+![Caption](images/SSI33.jpeg){group="my-gallery"}
+
+![Caption](images/SSI32.jpeg){group="my-gallery"}
+
+![Caption](images/SSI31.jpeg){group="my-gallery"}
+
+![Caption](images/SSI30.jpeg){group="my-gallery"}
+
+![Caption](images/SSI29.jpeg){group="my-gallery"}
+
+![Caption](images/SSI28.jpeg){group="my-gallery"}
+
+![Caption](images/SSI27.jpeg){group="my-gallery"}
+
+![Caption](images/SSI26.jpeg){group="my-gallery"}
+
+![Caption](images/SSI25.jpeg){group="my-gallery"}
+
+![Caption](images/SSI24.jpeg){group="my-gallery"}
+
+![Caption](images/SSI23.jpeg){group="my-gallery"}
+
+![Caption](images/SSI22.jpeg){group="my-gallery"}
+
+![Caption](images/SSI21.jpeg){group="my-gallery"}
+
+![Caption](images/SSI20.jpeg){group="my-gallery"}
+
+![Caption](images/SSI19.jpeg){group="my-gallery"}
+
+![Caption](images/SSI18.jpeg){group="my-gallery"}
+
+![Caption](images/SSI17.jpeg){group="my-gallery"}
+
+![Caption](images/SSI16.jpeg){group="my-gallery"}
+
+![Caption](images/SSI15.jpeg){group="my-gallery"}
+
+![Caption](images/SSI14.jpeg){group="my-gallery"}
+
+![Caption](images/SSI13.jpeg){group="my-gallery"}
+
+![Caption](images/SSI12.jpeg){group="my-gallery"}
+
+![Caption](images/SSI11.jpeg){group="my-gallery"}
+
+![Caption](images/SSI10.jpeg){group="my-gallery"}
+
+![Caption](images/SSI9.jpeg){group="my-gallery"}
+
+![Caption](images/SSI8.jpeg){group="my-gallery"}
+
+![Caption](images/SSI7.jpeg){group="my-gallery"}
+
+![Caption](images/SSI6.jpeg){group="my-gallery"}
+
+![Caption](images/SSI5.jpeg){group="my-gallery"}
+
+![Caption](images/SSI4.jpeg){group="my-gallery"}
+
+![Caption](images/SSI3.jpeg){group="my-gallery"}
+
+![Caption](images/SSI2.jpeg){group="my-gallery"}
+
+![Caption](images/SSI1.jpeg){group="my-gallery"}

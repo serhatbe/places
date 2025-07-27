@@ -1,0 +1,63 @@
+---
+title: "Oahu"
+date: "2015-03-23"
+#date-modified: "2024-12-15"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2015"
+  - Hawaii
+---
+
+## Brief Summary
+
+A wonderful vacation.
+
+## Miscellaneous Notes
+
+-   Travel dates:
+
+## Photos
+
+![](images/HA29.jpeg){group="my-gallery"}
+
+![](images/HA10.jpeg){group="my-gallery"}
+
+![](images/HA11.jpeg){group="my-gallery"}
+
+![](images/HA12.jpeg){group="my-gallery"}
+
+![](images/HA13.jpeg){group="my-gallery"}
+
+![](images/HA14.jpeg){group="my-gallery"}
+
+![](images/HA15.jpeg){group="my-gallery"}
+
+![](images/HA16.jpeg){group="my-gallery"}
+
+![](images/HA17.jpeg){group="my-gallery"}
+
+![](images/HA18.jpeg){group="my-gallery"}
+
+![](images/HA19.jpeg){group="my-gallery"}
+
+![](images/HA20.jpeg){group="my-gallery"}
+
+![](images/HA21.jpeg){group="my-gallery"}
+
+![](images/HA22.jpeg){group="my-gallery"}
+
+![](images/HA23.jpeg){group="my-gallery"}
+
+![](images/HA24.jpeg){group="my-gallery"}
+
+![](images/HA25.jpeg){group="my-gallery"}
+
+![](images/HA26.jpeg){group="my-gallery"}
+
+![](images/HA27.jpeg){group="my-gallery"}
+
+![](images/HA28.jpeg){group="my-gallery"}
