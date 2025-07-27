@@ -1,0 +1,29 @@
+---
+title: "Augsburg"
+date: "2025-07-27"
+#date-modified: "2025-04-13"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2025"
+  - Germany
+---
+
+## Brief Summary
+
+A brief time in Augsburg, Germany.
+
+## Miscellaneous Notes
+
+Travel dates: 2025-07-13 - 2025-07-19
+
+Hotel: Best Western
+
+Car Rental: None
+
+Transportation: On foot.
+
+## Photos

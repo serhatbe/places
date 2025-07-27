@@ -5,7 +5,7 @@ project:
     - CNAME
 
 website:
-  site-url: "https://travel.volumen.ca"
+  site-url: https://travel.volumen.ca
   title: "travel"
   navbar:
     right:
