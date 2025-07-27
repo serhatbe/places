@@ -10,7 +10,38 @@
 <atom:link href="https://travel.volumen.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Wed, 09 Apr 2025 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Jul 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Italy</title>
+  <link>https://travel.volumen.ca/posts/2025-07-26/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="brief-summary" class="level2">
+<h2 class="anchored" data-anchor-id="brief-summary">Brief Summary</h2>
+<p>A wonderful trip to the beautiful cities of Italy, including Verona, Venice, Florence, Siena and Bologna with a focus on cultural experiences, historical sites, and culinary delights. The itinerary includes visits to iconic landmarks, local markets, and opportunities to immerse in the rich Italian culture.</p>
+</section>
+<section id="itinerary-overview" class="level2">
+<h2 class="anchored" data-anchor-id="itinerary-overview">Itinerary Overview</h2>
+<ul>
+<li><strong>Day 1</strong>: Arrival in Verona, explore the city centre, visit Juliet’s House.</li>
+</ul>
+</section>
+<section id="photos" class="level2">
+<h2 class="anchored" data-anchor-id="photos">Photos</h2>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>2025</category>
+  <category>Italy</category>
+  <guid>https://travel.volumen.ca/posts/2025-07-26/</guid>
+  <pubDate>Sat, 26 Jul 2025 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Oahu</title>
   <link>https://travel.volumen.ca/posts/2025-04-09/</link>
@@ -1895,42 +1926,6 @@ Fairing-mounted electronic speedometer with odometer; time-of-day clock on CD pl
   <category>Nomad</category>
   <guid>https://travel.volumen.ca/posts/2010-06-16/</guid>
   <pubDate>Wed, 16 Jun 2010 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Labour Day 2009 in WA</title>
-  <link>https://travel.volumen.ca/posts/2009-09-08/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Despite the weather forecasts, we bravely followed our long weekend plans. Only the first day was rainy, but we didn’t mind. You and your best friend, cruising along two great bikes through beautiful country—what more could you ask for?</p>
-<p>Here are some of our highlights:</p>
-<ul>
-<li>Passage through the North Cascades</li>
-<li>Stay at the Best Western in Omak</li>
-<li>The journey from Republic to Kettle Falls</li>
-<li>Road along Roosevelt Lake</li>
-<li>Grand Coulee Dam</li>
-<li>Road along Banks Lake (we drove it three times and once before, for a total of four times)</li>
-<li>Dry Falls</li>
-<li>Mosses Lake</li>
-<li>Pot Holes</li>
-<li>Othello, with its many Mexican restaurants</li>
-<li>I-90 through the Cascades</li>
-</ul>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>2009</category>
-  <category>British Columbia</category>
-  <category>Washington</category>
-  <category>Suzy</category>
-  <category>Nomad</category>
-  <guid>https://travel.volumen.ca/posts/2009-09-08/</guid>
-  <pubDate>Tue, 08 Sep 2009 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

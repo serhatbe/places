@@ -1,0 +1,23 @@
+---
+title: "Italy"
+date: "2025-07-26"
+#date-modified: "2025-04-13"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2025"
+  - Italy
+---
+
+## Brief Summary
+
+A wonderful trip to the beautiful cities of Italy, including Verona, Venice, Florence, Siena and Bologna with a focus on cultural experiences, historical sites, and culinary delights. The itinerary includes visits to iconic landmarks, local markets, and opportunities to immerse in the rich Italian culture.
+
+## Itinerary Overview
+
+-   **Day 1**: Arrival in Verona, explore the city centre, visit Juliet's House.
+
+## Photos
