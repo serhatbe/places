@@ -6,6 +6,7 @@ project:
 
 website:
   site-url: https://travel.volumen.ca
+  favicon: favicon.ico
   title: "travel"
   navbar:
     right:
@@ -20,7 +21,6 @@ website:
 format:
   html:
     theme: cosmo #default journal cosmo litera sketchy
-    css: styles.css
 date-format: full
 editor: visual
 
