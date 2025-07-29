@@ -44,3 +44,5 @@ A wonderful trip through the beautiful cities of Verona, Venice, Florence, Siena
     -   Archiginnasio of Bologna (historic university library)
 
 ## Photos
+
+![St Mark's Basilica](images/cathedral.jpg)

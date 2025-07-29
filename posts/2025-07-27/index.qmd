@@ -26,4 +26,4 @@ Car Rental: None
 
 Transportation: On foot.
 
-## Photos
+## ![Augsburg Cathedral](images/cathedral.jpg)Photos

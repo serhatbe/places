@@ -9,7 +9,7 @@
 <link>https://travel.volumen.ca/</link>
 <atom:link href="https://travel.volumen.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.31</generator>
+<generator>quarto-1.7.32</generator>
 <lastBuildDate>Sun, 27 Jul 2025 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Augsburg</title>
@@ -31,8 +31,8 @@
 <p>Car Rental: None</p>
 <p>Transportation: On foot.</p>
 </section>
-<section id="photos" class="level2">
-<h2 class="anchored" data-anchor-id="photos">Photos</h2>
+<section id="augsburg-cathedralphotos" class="level2">
+<h2 class="anchored" data-anchor-id="augsburg-cathedralphotos"><img src="https://travel.volumen.ca/posts/2025-07-27/images/cathedral.jpg" class="img-fluid" alt="Augsburg Cathedral">Photos</h2>
 
 
 </section>
@@ -116,6 +116,12 @@
 </section>
 <section id="photos" class="level2">
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/cathedral.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="St Mark’s Basilica"><img src="https://travel.volumen.ca/posts/2025-07-26/images/cathedral.jpg" class="img-fluid figure-img" alt="St Mark’s Basilica"></a></p>
+<figcaption>St Mark’s Basilica</figcaption>
+</figure>
+</div>
 
 
 </section>
