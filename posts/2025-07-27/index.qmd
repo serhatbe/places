@@ -1,7 +1,7 @@
 ---
 title: "Augsburg"
 date: "2025-07-27"
-#date-modified: "2025-04-13"
+date-modified: "2025-07-30"
 lightbox:
   match: auto
   effect: zoom # fade, zoom
@@ -26,4 +26,72 @@ Car Rental: None
 
 Transportation: On foot.
 
-## ![Augsburg Cathedral](images/cathedral.jpg)Photos
+## Photos
+
+![Augsburg Cathedral](images/cathedral.jpg){group="my-gallery"}
+
+![Augsburg](images/Augsburg1.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg2.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg6.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg4.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg7.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg8.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg9.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg10.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg11.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg12.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg13.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg14.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg15.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg16.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg17.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg18.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg19.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg20.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg21.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg22.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg23.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg24.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg25.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg26.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg27.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg28.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg29.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg31.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg32.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg33.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg34.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg35.jpeg){group="my-gallery"}
+
+![Augsburg](images/Augsburg36.jpeg){group="my-gallery"}
