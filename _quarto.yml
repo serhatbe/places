@@ -5,9 +5,9 @@ project:
     - CNAME
 
 website:
-  site-url: https://travel.volumen.ca
+  site-url: https://places.volumen.ca
   favicon: favicon.ico
-  title: "travel"
+  title: "places"
   navbar:
     right:
       - about.qmd
@@ -15,7 +15,7 @@ website:
         href: index.xml
   back-to-top-navigation: true
   page-footer:
-    left: 1999-2025 Travel
+    left: 1999-2025 Places
     right: |
       Built with <a href="https://quarto.org"> Quarto {{< version >}}</a>
 format:

@@ -5,15 +5,15 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>travel</title>
-<link>https://travel.volumen.ca/</link>
-<atom:link href="https://travel.volumen.ca/index.xml" rel="self" type="application/rss+xml"/>
+<title>places</title>
+<link>https://places.volumen.ca/</link>
+<atom:link href="https://places.volumen.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.32</generator>
+<generator>quarto-1.7.33</generator>
 <lastBuildDate>Sun, 27 Jul 2025 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Augsburg</title>
-  <link>https://travel.volumen.ca/posts/2025-07-27/</link>
+  <link>https://places.volumen.ca/posts/2025-07-27/</link>
   <description><![CDATA[ 
 
 
@@ -35,205 +35,205 @@
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/cathedral.jpg" class="lightbox" data-gallery="my-gallery" title="Augsburg Cathedral"><img src="https://travel.volumen.ca/posts/2025-07-27/images/cathedral.jpg" class="img-fluid figure-img" alt="Augsburg Cathedral"></a></p>
+<p><a href="images/cathedral.jpg" class="lightbox" data-gallery="my-gallery" title="Augsburg Cathedral"><img src="https://places.volumen.ca/posts/2025-07-27/images/cathedral.jpg" class="img-fluid figure-img" alt="Augsburg Cathedral"></a></p>
 <figcaption>Augsburg Cathedral</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg1.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg1.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg1.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg1.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg2.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg2.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg2.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg2.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg6.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg6.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg6.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg6.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg4.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg4.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg4.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg4.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg7.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg7.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg7.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg7.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg8.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg8.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg8.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg8.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg9.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg9.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg9.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg9.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg10.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg10.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg10.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg10.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg11.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg11.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg11.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg11.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg12.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg12.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg12.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg12.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg13.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg13.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg13.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg13.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg14.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg14.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg14.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg14.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg15.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg15.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg15.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg15.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg16.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg16.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg16.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg16.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg17.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg17.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg17.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg17.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg18.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg18.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg18.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg18.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg19.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg19.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg19.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg19.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg20.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg20.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg20.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg20.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg21.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg21.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg21.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg21.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg22.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg22.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg22.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg22.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg23.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg23.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg23.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg23.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg24.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg24.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg24.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg24.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg25.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg25.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg25.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg25.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg26.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg26.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg26.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg26.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg27.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg27.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg27.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg27.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg28.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg28.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg28.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg28.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg29.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg29.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg29.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg29.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg31.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg31.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg31.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg31.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg32.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg32.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg32.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg32.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg33.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg33.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg33.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg33.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg34.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg34.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg34.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg34.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg35.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg35.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg35.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg35.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Augsburg36.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://travel.volumen.ca/posts/2025-07-27/images/Augsburg36.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
+<p><a href="images/Augsburg36.jpeg" class="lightbox" data-gallery="my-gallery" title="Augsburg"><img src="https://places.volumen.ca/posts/2025-07-27/images/Augsburg36.jpeg" class="img-fluid figure-img" alt="Augsburg"></a></p>
 <figcaption>Augsburg</figcaption>
 </figure>
 </div>
@@ -244,12 +244,12 @@
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>2025</category>
   <category>Germany</category>
-  <guid>https://travel.volumen.ca/posts/2025-07-27/</guid>
+  <guid>https://places.volumen.ca/posts/2025-07-27/</guid>
   <pubDate>Sun, 27 Jul 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Italy</title>
-  <link>https://travel.volumen.ca/posts/2025-07-26/</link>
+  <link>https://places.volumen.ca/posts/2025-07-26/</link>
   <description><![CDATA[ 
 
 
@@ -322,7 +322,7 @@
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/cathedral.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="St Mark’s Basilica"><img src="https://travel.volumen.ca/posts/2025-07-26/images/cathedral.jpg" class="img-fluid figure-img" alt="St Mark’s Basilica"></a></p>
+<p><a href="images/cathedral.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="St Mark’s Basilica"><img src="https://places.volumen.ca/posts/2025-07-26/images/cathedral.jpg" class="img-fluid figure-img" alt="St Mark’s Basilica"></a></p>
 <figcaption>St Mark’s Basilica</figcaption>
 </figure>
 </div>
@@ -333,12 +333,12 @@
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>2025</category>
   <category>Italy</category>
-  <guid>https://travel.volumen.ca/posts/2025-07-26/</guid>
+  <guid>https://places.volumen.ca/posts/2025-07-26/</guid>
   <pubDate>Sat, 26 Jul 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Oahu</title>
-  <link>https://travel.volumen.ca/posts/2025-04-09/</link>
+  <link>https://places.volumen.ca/posts/2025-04-09/</link>
   <description><![CDATA[ 
 
 
@@ -360,36 +360,36 @@
 </section>
 <section id="photos" class="level2">
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
-<p><a href="images/ohau11.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau11.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau10.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau10.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau12.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau12.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau13.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau13.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau14.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau14.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau15.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau15.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau16.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau16.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau17.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau17.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau18.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau18.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau19.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau19.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau20.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau20.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau21.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau21.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau22.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau22.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau23.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau23.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau24.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau24.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau25.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau25.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau26.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau26.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau27.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau27.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau28.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau28.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau29.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau29.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau30.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau30.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau31.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau31.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau32.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau32.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau33.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau33.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau34.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau34.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau35.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau35.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau36.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau36.jpeg" class="img-fluid"></a></p>
-<p><a href="images/ohau37.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau37.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau11.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau11.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau10.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau10.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau12.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau12.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau13.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau13.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau14.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau14.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau15.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau15.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau16.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau16.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau17.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau17.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau18.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau18.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau19.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau19.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau20.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau20.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau21.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau21.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau22.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau22.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau23.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau23.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau24.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau24.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau25.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau25.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau26.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau26.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau27.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau27.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau28.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau28.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau29.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau29.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau30.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau30.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau31.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau31.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau32.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau32.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau33.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau33.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau34.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau34.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau35.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau35.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau36.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau36.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau37.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau37.jpeg" class="img-fluid"></a></p>
 <p>![](images/ohau38.jpeg}{group=“my-gallery”}</p>
-<p><a href="images/ohau39.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2025-04-09/images/ohau39.jpeg" class="img-fluid"></a></p>
+<p><a href="images/ohau39.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2025-04-09/images/ohau39.jpeg" class="img-fluid"></a></p>
 
 
 </section>
@@ -397,12 +397,12 @@
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>2025</category>
   <category>Hawaii</category>
-  <guid>https://travel.volumen.ca/posts/2025-04-09/</guid>
+  <guid>https://places.volumen.ca/posts/2025-04-09/</guid>
   <pubDate>Wed, 09 Apr 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Kona &amp; Hilo</title>
-  <link>https://travel.volumen.ca/posts/2024-12-04/</link>
+  <link>https://places.volumen.ca/posts/2024-12-04/</link>
   <description><![CDATA[ 
 
 
@@ -425,81 +425,81 @@
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Hawaii01.jpg" class="lightbox" data-gallery="my-gallery" title="A Turtle"><img src="https://travel.volumen.ca/posts/2024-12-04/images/Hawaii01.jpg" class="img-fluid figure-img" alt="A Turtle"></a></p>
+<p><a href="images/Hawaii01.jpg" class="lightbox" data-gallery="my-gallery" title="A Turtle"><img src="https://places.volumen.ca/posts/2024-12-04/images/Hawaii01.jpg" class="img-fluid figure-img" alt="A Turtle"></a></p>
 <figcaption>A Turtle</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Hawaii04.jpg" class="lightbox" data-gallery="my-gallery" title="Macadamia Orchard"><img src="https://travel.volumen.ca/posts/2024-12-04/images/Hawaii04.jpg" class="img-fluid figure-img" alt="Macadamia Orchard"></a></p>
+<p><a href="images/Hawaii04.jpg" class="lightbox" data-gallery="my-gallery" title="Macadamia Orchard"><img src="https://places.volumen.ca/posts/2024-12-04/images/Hawaii04.jpg" class="img-fluid figure-img" alt="Macadamia Orchard"></a></p>
 <figcaption>Macadamia Orchard</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Hawaii03.jpg" class="lightbox" data-gallery="my-gallery" title="Avocado Tree"><img src="https://travel.volumen.ca/posts/2024-12-04/images/Hawaii03.jpg" class="img-fluid figure-img" alt="Avocado Tree"></a></p>
+<p><a href="images/Hawaii03.jpg" class="lightbox" data-gallery="my-gallery" title="Avocado Tree"><img src="https://places.volumen.ca/posts/2024-12-04/images/Hawaii03.jpg" class="img-fluid figure-img" alt="Avocado Tree"></a></p>
 <figcaption>Avocado Tree</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Hawaii02a.jpg" class="lightbox" data-gallery="my-gallery" title="Caution!"><img src="https://travel.volumen.ca/posts/2024-12-04/images/Hawaii02a.jpg" class="img-fluid figure-img" alt="Caution!"></a></p>
+<p><a href="images/Hawaii02a.jpg" class="lightbox" data-gallery="my-gallery" title="Caution!"><img src="https://places.volumen.ca/posts/2024-12-04/images/Hawaii02a.jpg" class="img-fluid figure-img" alt="Caution!"></a></p>
 <figcaption>Caution!</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Hawaii02.jpg" class="lightbox" data-gallery="my-gallery" title="Coconut Tree"><img src="https://travel.volumen.ca/posts/2024-12-04/images/Hawaii02.jpg" class="img-fluid figure-img" alt="Coconut Tree"></a></p>
+<p><a href="images/Hawaii02.jpg" class="lightbox" data-gallery="my-gallery" title="Coconut Tree"><img src="https://places.volumen.ca/posts/2024-12-04/images/Hawaii02.jpg" class="img-fluid figure-img" alt="Coconut Tree"></a></p>
 <figcaption>Coconut Tree</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Hawaii00.jpg" class="lightbox" data-gallery="my-gallery" title="A selfie"><img src="https://travel.volumen.ca/posts/2024-12-04/images/Hawaii00.jpg" class="img-fluid figure-img" alt="A selfie"></a></p>
+<p><a href="images/Hawaii00.jpg" class="lightbox" data-gallery="my-gallery" title="A selfie"><img src="https://places.volumen.ca/posts/2024-12-04/images/Hawaii00.jpg" class="img-fluid figure-img" alt="A selfie"></a></p>
 <figcaption>A selfie</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Hawaii13-01.jpeg" class="lightbox" data-gallery="my-gallery" title="Another selfie"><img src="https://travel.volumen.ca/posts/2024-12-04/images/Hawaii13-01.jpeg" class="img-fluid figure-img" alt="Another selfie"></a></p>
+<p><a href="images/Hawaii13-01.jpeg" class="lightbox" data-gallery="my-gallery" title="Another selfie"><img src="https://places.volumen.ca/posts/2024-12-04/images/Hawaii13-01.jpeg" class="img-fluid figure-img" alt="Another selfie"></a></p>
 <figcaption>Another selfie</figcaption>
 </figure>
 </div>
-<p><a href="images/Hawaii12-01.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-12-04/images/Hawaii12-01.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Hawaii11-01.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-12-04/images/Hawaii11-01.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Hawaii12-01.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-12-04/images/Hawaii12-01.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Hawaii11-01.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-12-04/images/Hawaii11-01.jpeg" class="img-fluid"></a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Hawaii10-01.jpeg" class="lightbox" data-gallery="my-gallery" title="Budha at Hilton"><img src="https://travel.volumen.ca/posts/2024-12-04/images/Hawaii10-01.jpeg" class="img-fluid figure-img" alt="Budha at Hilton"></a></p>
+<p><a href="images/Hawaii10-01.jpeg" class="lightbox" data-gallery="my-gallery" title="Budha at Hilton"><img src="https://places.volumen.ca/posts/2024-12-04/images/Hawaii10-01.jpeg" class="img-fluid figure-img" alt="Budha at Hilton"></a></p>
 <figcaption>Budha at Hilton</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Hawaii9-01.jpeg" class="lightbox" data-gallery="my-gallery" title="Lava at Hilton"><img src="https://travel.volumen.ca/posts/2024-12-04/images/Hawaii9-01.jpeg" class="img-fluid figure-img" alt="Lava at Hilton"></a></p>
+<p><a href="images/Hawaii9-01.jpeg" class="lightbox" data-gallery="my-gallery" title="Lava at Hilton"><img src="https://places.volumen.ca/posts/2024-12-04/images/Hawaii9-01.jpeg" class="img-fluid figure-img" alt="Lava at Hilton"></a></p>
 <figcaption>Lava at Hilton</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Hawaii8-01.jpeg" class="lightbox" data-gallery="my-gallery" title="Dolphins at Hilton"><img src="https://travel.volumen.ca/posts/2024-12-04/images/Hawaii8-01.jpeg" class="img-fluid figure-img" alt="Dolphins at Hilton"></a></p>
+<p><a href="images/Hawaii8-01.jpeg" class="lightbox" data-gallery="my-gallery" title="Dolphins at Hilton"><img src="https://places.volumen.ca/posts/2024-12-04/images/Hawaii8-01.jpeg" class="img-fluid figure-img" alt="Dolphins at Hilton"></a></p>
 <figcaption>Dolphins at Hilton</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Hawaii7-01.jpeg" class="lightbox" data-gallery="my-gallery" title="Snack at Queen’s Market"><img src="https://travel.volumen.ca/posts/2024-12-04/images/Hawaii7-01.jpeg" class="img-fluid figure-img" alt="Snack at Queen’s Market"></a></p>
+<p><a href="images/Hawaii7-01.jpeg" class="lightbox" data-gallery="my-gallery" title="Snack at Queen’s Market"><img src="https://places.volumen.ca/posts/2024-12-04/images/Hawaii7-01.jpeg" class="img-fluid figure-img" alt="Snack at Queen’s Market"></a></p>
 <figcaption>Snack at Queen’s Market</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Hawaii6-01.jpeg" class="lightbox" data-gallery="my-gallery" title="Farmer’s Market in Hilo"><img src="https://travel.volumen.ca/posts/2024-12-04/images/Hawaii6-01.jpeg" class="img-fluid figure-img" alt="Farmer’s Market in Hilo"></a></p>
+<p><a href="images/Hawaii6-01.jpeg" class="lightbox" data-gallery="my-gallery" title="Farmer’s Market in Hilo"><img src="https://places.volumen.ca/posts/2024-12-04/images/Hawaii6-01.jpeg" class="img-fluid figure-img" alt="Farmer’s Market in Hilo"></a></p>
 <figcaption>Farmer’s Market in Hilo</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Hawaii5-01.jpeg" class="lightbox" data-gallery="my-gallery" title="Buffet dinner at Hilo Hotel"><img src="https://travel.volumen.ca/posts/2024-12-04/images/Hawaii5-01.jpeg" class="img-fluid figure-img" alt="Buffet dinner at Hilo Hotel"></a></p>
+<p><a href="images/Hawaii5-01.jpeg" class="lightbox" data-gallery="my-gallery" title="Buffet dinner at Hilo Hotel"><img src="https://places.volumen.ca/posts/2024-12-04/images/Hawaii5-01.jpeg" class="img-fluid figure-img" alt="Buffet dinner at Hilo Hotel"></a></p>
 <figcaption>Buffet dinner at Hilo Hotel</figcaption>
 </figure>
 </div>
@@ -510,12 +510,12 @@
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>2024</category>
   <category>Hawaii</category>
-  <guid>https://travel.volumen.ca/posts/2024-12-04/</guid>
+  <guid>https://places.volumen.ca/posts/2024-12-04/</guid>
   <pubDate>Wed, 04 Dec 2024 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Salt Spring Island</title>
-  <link>https://travel.volumen.ca/posts/2024-09-23/</link>
+  <link>https://places.volumen.ca/posts/2024-09-23/</link>
   <description><![CDATA[ 
 
 
@@ -536,265 +536,265 @@
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI44.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI44.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI44.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI44.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI43.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI43.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI43.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI43.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI42.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI42.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI42.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI42.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI41.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI41.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI41.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI41.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI40.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI40.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI40.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI40.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI39.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI39.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI39.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI39.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI38.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI38.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI38.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI38.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI37.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI37.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI37.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI37.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI36.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI36.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI36.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI36.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI35.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI35.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI35.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI35.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI34.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI34.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI34.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI34.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI33.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI33.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI33.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI33.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI32.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI32.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI32.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI32.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI31.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI31.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI31.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI31.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI30.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI30.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI30.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI30.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI29.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI29.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI29.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI29.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI28.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI28.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI28.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI28.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI27.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI27.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI27.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI27.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI26.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI26.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI26.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI26.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI25.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI25.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI25.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI25.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI24.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI24.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI24.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI24.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI23.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI23.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI23.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI23.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI22.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI22.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI22.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI22.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI21.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI21.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI21.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI21.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI20.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI20.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI20.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI20.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI19.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI19.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI19.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI19.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI18.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI18.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI18.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI18.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI17.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI17.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI17.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI17.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI16.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI16.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI16.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI16.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI15.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI15.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI15.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI15.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI14.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI14.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI14.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI14.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI13.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI13.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI13.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI13.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI12.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI12.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI12.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI12.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI11.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI11.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI11.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI11.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI10.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI10.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI10.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI10.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI9.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI9.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI9.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI9.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI8.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI8.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI8.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI8.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI7.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI7.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI7.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI7.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI6.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI6.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI6.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI6.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI5.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI5.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI5.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI5.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI4.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI4.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI4.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI4.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI3.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI3.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI3.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI3.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI2.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI2.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI2.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI2.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/SSI1.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2024-09-23/images/SSI1.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/SSI1.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2024-09-23/images/SSI1.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
@@ -805,12 +805,12 @@
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>2024</category>
   <category>British Columbia</category>
-  <guid>https://travel.volumen.ca/posts/2024-09-23/</guid>
+  <guid>https://places.volumen.ca/posts/2024-09-23/</guid>
   <pubDate>Mon, 23 Sep 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Japan</title>
-  <link>https://travel.volumen.ca/posts/2024-07-08/</link>
+  <link>https://places.volumen.ca/posts/2024-07-08/</link>
   <description><![CDATA[ 
 
 
@@ -829,31 +829,31 @@
 </section>
 <section id="photos" class="level2">
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
-<p><a href="images/japan25.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan25.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan24.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan24.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan23.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan23.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan22.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan22.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan21.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan21.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan20.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan20.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan19.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan19.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan18.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan18.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan17.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan17.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan16.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan16.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan15.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan15.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan14.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan14.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan13.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan13.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan12.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan12.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan11.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan11.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan10.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan10.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan09.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan09.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan08.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan08.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan07.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan07.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan06.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan06.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan05.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan05.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan04.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan04.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan03.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan03.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan02.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan02.jpg" class="img-fluid"></a></p>
-<p><a href="images/japan01.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2024-07-08/images/japan01.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan25.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan25.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan24.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan24.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan23.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan23.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan22.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan22.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan21.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan21.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan20.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan20.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan19.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan19.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan18.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan18.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan17.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan17.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan16.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan16.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan15.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan15.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan14.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan14.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan13.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan13.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan12.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan12.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan11.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan11.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan10.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan10.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan09.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan09.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan08.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan08.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan07.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan07.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan06.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan06.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan05.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan05.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan04.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan04.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan03.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan03.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan02.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan02.jpg" class="img-fluid"></a></p>
+<p><a href="images/japan01.jpg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2024-07-08/images/japan01.jpg" class="img-fluid"></a></p>
 
 
 </section>
@@ -862,12 +862,12 @@
   <category>2024</category>
   <category>Japan</category>
   <category>Asia</category>
-  <guid>https://travel.volumen.ca/posts/2024-07-08/</guid>
+  <guid>https://places.volumen.ca/posts/2024-07-08/</guid>
   <pubDate>Mon, 08 Jul 2024 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Texas</title>
-  <link>https://travel.volumen.ca/posts/2023-12-04/</link>
+  <link>https://places.volumen.ca/posts/2023-12-04/</link>
   <description><![CDATA[ 
 
 
@@ -888,487 +888,487 @@
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX11.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX11.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX11.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX11.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX91.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX91.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX91.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX91.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX90.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX90.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX90.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX90.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX89.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX89.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX89.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX89.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX88.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX88.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX88.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX88.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX87.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX87.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX87.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX87.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX86.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX86.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX86.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX86.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX85.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX85.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX85.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX85.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX84.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX84.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX84.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX84.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX83.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX83.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX83.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX83.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX82.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX82.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX82.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX82.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX81.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX81.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX81.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX81.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX80.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX80.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX80.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX80.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX79.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX79.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX79.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX79.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX78.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX78.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX78.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX78.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX77.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX77.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX77.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX77.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX76.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX76.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX76.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX76.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX75.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX75.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX75.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX75.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX74.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX74.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX74.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX74.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX73.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX73.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX73.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX73.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX72.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX72.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX72.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX72.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX71.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX71.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX71.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX71.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX70.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX70.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX70.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX70.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX69.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX69.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX69.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX69.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX68.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX68.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX68.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX68.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX67.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX67.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX67.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX67.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX66.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX66.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX66.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX66.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX65.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX65.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX65.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX65.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX64.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX64.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX64.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX64.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX63.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX63.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX63.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX63.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX62.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX62.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX62.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX62.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX61.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX61.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX61.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX61.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX60.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX60.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX60.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX60.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX59.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX59.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX59.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX59.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX58.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX58.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX58.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX58.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX57.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX57.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX57.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX57.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX56.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX56.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX56.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX56.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX55.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX55.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX55.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX55.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX54.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX54.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX54.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX54.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX53.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX53.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX53.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX53.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX52.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX52.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX52.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX52.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX51.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX51.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX51.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX51.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX50.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX50.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX50.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX50.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX49.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX49.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX49.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX49.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX48.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX48.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX48.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX48.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX47.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX47.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX47.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX47.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX46.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX46.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX46.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX46.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX45.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX45.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX45.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX45.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX44.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX44.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX44.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX44.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX43.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX43.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX43.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX43.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX42.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX42.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX42.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX42.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX41.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX41.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX41.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX41.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX40.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX40.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX40.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX40.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX39.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX39.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX39.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX39.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX38.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX38.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX38.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX38.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX37.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX37.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX37.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX37.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX36.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX36.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX36.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX36.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX35.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX35.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX35.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX35.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX34.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX34.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX34.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX34.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX33.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX33.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX33.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX33.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX32.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX32.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX32.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX32.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX31.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX31.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX31.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX31.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX30.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX30.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX30.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX30.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX29.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX29.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX29.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX29.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX28.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX28.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX28.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX28.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX27.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX27.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX27.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX27.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX26.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX26.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX26.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX26.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX25.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX25.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX25.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX25.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX24.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX24.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX24.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX24.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX23.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX23.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX23.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX23.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX22.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX22.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX22.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX22.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX21.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX21.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX21.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX21.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX20.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX20.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX20.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX20.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX19.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX19.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX19.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX19.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX18.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX18.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX18.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX18.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX17.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX17.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX17.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX17.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX16.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX16.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX16.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX16.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX15.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX15.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX15.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX15.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX14.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX14.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX14.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX14.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX13.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX13.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX13.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX13.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/TX12.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://travel.volumen.ca/posts/2023-12-04/images/TX12.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
+<p><a href="images/TX12.jpeg" class="lightbox" data-gallery="my-gallery" title="Caption"><img src="https://places.volumen.ca/posts/2023-12-04/images/TX12.jpeg" class="img-fluid figure-img" alt="Caption"></a></p>
 <figcaption>Caption</figcaption>
 </figure>
 </div>
@@ -1379,12 +1379,12 @@
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>2023</category>
   <category>Texas</category>
-  <guid>https://travel.volumen.ca/posts/2023-12-04/</guid>
+  <guid>https://places.volumen.ca/posts/2023-12-04/</guid>
   <pubDate>Mon, 04 Dec 2023 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Canadian Rockies</title>
-  <link>https://travel.volumen.ca/posts/2023-07-29/</link>
+  <link>https://places.volumen.ca/posts/2023-07-29/</link>
   <description><![CDATA[ 
 
 
@@ -1404,42 +1404,42 @@
 </section>
 <section id="photos" class="level2">
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
-<p><a href="images/rockies24.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies24.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies47.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies47.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies46.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies46.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies45.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies45.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies44.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies44.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies43.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies43.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies42.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies42.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies41.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies41.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies40.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies40.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies39.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies39.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies38.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies38.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies37.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies37.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies36.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies36.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies35.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies35.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies34.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies34.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies33.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies33.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies32.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies32.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies31.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies31.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies30.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies30.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies29.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies29.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies27.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies27.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies26.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies26.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies25.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies25.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies22.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies22.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies21.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies21.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies20.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies20.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies19.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies19.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies18.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies18.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies17.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies17.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies16.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies16.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies15.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies15.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies14.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies14.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies13.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies13.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies12.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies12.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies11.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies11.jpeg" class="img-fluid"></a></p>
-<p><a href="images/rockies10.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2023-07-29/images/rockies10.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies24.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies24.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies47.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies47.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies46.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies46.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies45.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies45.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies44.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies44.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies43.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies43.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies42.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies42.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies41.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies41.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies40.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies40.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies39.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies39.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies38.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies38.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies37.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies37.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies36.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies36.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies35.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies35.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies34.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies34.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies33.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies33.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies32.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies32.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies31.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies31.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies30.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies30.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies29.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies29.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies27.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies27.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies26.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies26.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies25.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies25.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies22.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies22.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies21.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies21.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies20.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies20.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies19.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies19.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies18.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies18.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies17.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies17.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies16.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies16.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies15.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies15.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies14.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies14.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies13.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies13.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies12.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies12.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies11.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies11.jpeg" class="img-fluid"></a></p>
+<p><a href="images/rockies10.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2023-07-29/images/rockies10.jpeg" class="img-fluid"></a></p>
 
 
 </section>
@@ -1450,12 +1450,12 @@
   <category>Alberta</category>
   <category>Suzili</category>
   <category>Electra</category>
-  <guid>https://travel.volumen.ca/posts/2023-07-29/</guid>
+  <guid>https://places.volumen.ca/posts/2023-07-29/</guid>
   <pubDate>Sat, 29 Jul 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Maui</title>
-  <link>https://travel.volumen.ca/posts/2019-11-23/</link>
+  <link>https://places.volumen.ca/posts/2019-11-23/</link>
   <description><![CDATA[ 
 
 
@@ -1474,33 +1474,33 @@
 </section>
 <section id="photos" class="level2">
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
-<p><a href="images/Maui40.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui40.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui10.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui10.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui11.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui11.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui12.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui12.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui13.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui13.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui14.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui14.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui15.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui15.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui16.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui16.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui17.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui17.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui18.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui18.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui20.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui20.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui23.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui23.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui24.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui24.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui26.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui26.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui27.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui27.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui28.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui28.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui29.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui29.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui30.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui30.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui32.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui32.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui33.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui33.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui34.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui34.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui35.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui35.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui36.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui36.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui37.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui37.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui38.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui38.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui39.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui39.jpeg" class="img-fluid"></a></p>
-<p><a href="images/Maui41.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2019-11-23/images/Maui41.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui40.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui40.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui10.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui10.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui11.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui11.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui12.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui12.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui13.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui13.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui14.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui14.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui15.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui15.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui16.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui16.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui17.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui17.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui18.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui18.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui20.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui20.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui23.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui23.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui24.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui24.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui26.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui26.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui27.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui27.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui28.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui28.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui29.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui29.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui30.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui30.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui32.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui32.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui33.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui33.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui34.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui34.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui35.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui35.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui36.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui36.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui37.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui37.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui38.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui38.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui39.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui39.jpeg" class="img-fluid"></a></p>
+<p><a href="images/Maui41.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2019-11-23/images/Maui41.jpeg" class="img-fluid"></a></p>
 
 
 </section>
@@ -1508,12 +1508,12 @@
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>2019</category>
   <category>Hawaii</category>
-  <guid>https://travel.volumen.ca/posts/2019-11-23/</guid>
+  <guid>https://places.volumen.ca/posts/2019-11-23/</guid>
   <pubDate>Sat, 23 Nov 2019 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>New York City</title>
-  <link>https://travel.volumen.ca/posts/2018-04-19/</link>
+  <link>https://places.volumen.ca/posts/2018-04-19/</link>
   <description><![CDATA[ 
 
 
@@ -1532,14 +1532,14 @@
 </section>
 <section id="photos" class="level2">
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
-<p><a href="images/NY - 7.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2018-04-19/images/NY - 7.jpeg" class="img-fluid"></a></p>
-<p><a href="images/NY - 1.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2018-04-19/images/NY - 1.jpeg" class="img-fluid"></a></p>
-<p><a href="images/NY - 2.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2018-04-19/images/NY - 2.jpeg" class="img-fluid"></a></p>
-<p><a href="images/NY - 3.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2018-04-19/images/NY - 3.jpeg" class="img-fluid"></a></p>
-<p><a href="images/NY - 4.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2018-04-19/images/NY - 4.jpeg" class="img-fluid"></a></p>
-<p><a href="images/NY - 5.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2018-04-19/images/NY - 5.jpeg" class="img-fluid"></a></p>
-<p><a href="images/NY - 6.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2018-04-19/images/NY - 6.jpeg" class="img-fluid"></a></p>
-<p><a href="images/NY - 8.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://travel.volumen.ca/posts/2018-04-19/images/NY - 8.jpeg" class="img-fluid"></a></p>
+<p><a href="images/NY - 7.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2018-04-19/images/NY - 7.jpeg" class="img-fluid"></a></p>
+<p><a href="images/NY - 1.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2018-04-19/images/NY - 1.jpeg" class="img-fluid"></a></p>
+<p><a href="images/NY - 2.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2018-04-19/images/NY - 2.jpeg" class="img-fluid"></a></p>
+<p><a href="images/NY - 3.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2018-04-19/images/NY - 3.jpeg" class="img-fluid"></a></p>
+<p><a href="images/NY - 4.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2018-04-19/images/NY - 4.jpeg" class="img-fluid"></a></p>
+<p><a href="images/NY - 5.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2018-04-19/images/NY - 5.jpeg" class="img-fluid"></a></p>
+<p><a href="images/NY - 6.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2018-04-19/images/NY - 6.jpeg" class="img-fluid"></a></p>
+<p><a href="images/NY - 8.jpeg" class="lightbox" data-gallery="my-gallery"><img src="https://places.volumen.ca/posts/2018-04-19/images/NY - 8.jpeg" class="img-fluid"></a></p>
 
 
 </section>
@@ -1547,7 +1547,7 @@
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>2018</category>
   <category>New York</category>
-  <guid>https://travel.volumen.ca/posts/2018-04-19/</guid>
+  <guid>https://places.volumen.ca/posts/2018-04-19/</guid>
   <pubDate>Thu, 19 Apr 2018 07:00:00 GMT</pubDate>
 </item>
 </channel>
