@@ -45,4 +45,44 @@ A wonderful trip through the beautiful cities of Verona, Venice, Florence, Siena
 
 ## Photos
 
-![St Mark's Basilica](images/cathedral.jpg)
+![Verona Arena](images/Verona2.jpeg){group="Verona"}
+
+![Verona](images/Verona4.jpeg){group="Verona"}
+
+![Verona](images/Verona5.jpeg){group="Verona"}
+
+![Juliet’s House & Balcony](images/Verona6.jpeg){group="Verona"}
+
+![Juliet’s House & Balcony](images/Verona8.jpeg){group="Verona"}
+
+![Verona](images/Verona9.jpeg){group="Verona"}
+
+![Verona](images/Verona10.jpeg){group="Verona"}
+
+![Verona](images/Verona11.jpeg){group="Verona"}
+
+![Verona](images/Verona12.jpeg){group="Verona"}
+
+![Verona](images/Verona13.jpeg){group="Verona"}
+
+![Verona Arena](images/Verona14.jpeg){group="Verona"}
+
+![Verona](images/Verona15.jpeg){group="Verona"}
+
+![Verona](images/Verona17.jpeg){group="Verona"}
+
+![Verona](images/Verona18.jpeg){group="Verona"}
+
+![Verona](images/Verona19.jpeg){group="Verona"}
+
+![Verona](images/Verona20.jpeg){group="Verona"}
+
+![Verona](images/Verona22.jpeg){group="Verona"}
+
+![Verona](images/Verona24.jpeg){group="Verona"}
+
+![La Traviata, the most performed opera in the world](images/Verona25.jpeg){group="Verona"}
+
+![La Traviata, the most performed opera in the world](images/Verona26.jpeg){group="Verona"}
+
+![La Traviata, the most performed opera in the world](images/Verona27.jpeg){group="Verona"}
