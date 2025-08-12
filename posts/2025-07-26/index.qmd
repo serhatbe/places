@@ -1,7 +1,10 @@
 ---
 title: "Italy"
 date: "2025-07-26"
-#date-modified: "2025-04-13"
+date-modified: "2025-08-11"
+format:
+  html:
+    toc: true
 lightbox:
   match: auto
   effect: zoom # fade, zoom
@@ -43,7 +46,7 @@ A wonderful trip through the beautiful cities of Verona, Venice, Florence, Siena
     -   Traditional Bolognese cuisine (tagliatelle al ragù)\
     -   Archiginnasio of Bologna (historic university library)
 
-## Photos
+## Verona
 
 ![Verona Arena](images/Verona2.jpeg){group="Verona"}
 
@@ -86,3 +89,7 @@ A wonderful trip through the beautiful cities of Verona, Venice, Florence, Siena
 ![La Traviata, the most performed opera in the world](images/Verona26.jpeg){group="Verona"}
 
 ![La Traviata, the most performed opera in the world](images/Verona27.jpeg){group="Verona"}
+
+![La Traviata, the most performed opera in the world](images/Verona28.jpeg){group="Verona"}
+
+## Venice
