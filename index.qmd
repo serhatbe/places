@@ -5,7 +5,7 @@ listing:
   sort: "date desc"
   page-size: 3
   type: default #table grid default
-  categories: numbered #numbered unnumbered cloud
+  categories: cloud #numbered unnumbered cloud
   feed:
     items: 10
   sort-ui: false
