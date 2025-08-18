@@ -5,3 +5,9 @@
 
 /.quarto/
 .DS_Store
+
+# Ignore everything in .vscode
+.vscode/*
+
+# Allow shared workspace settings
+!.vscode/settings.json
