@@ -10,7 +10,7 @@ lightbox:
   loop: true
 categories:
   - "2024"
-  - British Columbia
+  - BC
 ---
 
 ## Brief Summary

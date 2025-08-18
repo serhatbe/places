@@ -9,7 +9,7 @@ lightbox:
   loop: true
 categories:
   - "2008"
-  - British Columbia
+  - BC
   - Washington
   - Suzy
   - C50

@@ -9,7 +9,7 @@ lightbox:
   loop: true
 categories:
   - "2015"
-  - British Columbia
+  - BC
   - Idaho
   - Montana
   - Wyoming

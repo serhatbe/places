@@ -9,7 +9,7 @@ lightbox:
   loop: true
 categories:
   - "2011"
-  - British Columbia
+  - BC
   - Suzy
   - Nomad
 ---

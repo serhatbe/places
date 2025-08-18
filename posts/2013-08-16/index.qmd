@@ -9,7 +9,7 @@ lightbox:
   loop: true
 categories:
   - "2013"
-  - British Columbia
+  - BC
   - Washington
   - Oregon
   - California

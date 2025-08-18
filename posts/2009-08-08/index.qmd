@@ -9,7 +9,7 @@ lightbox:
   loop: true
 categories:
   - "2009"
-  - British Columbia
+  - BC
   - Washington
   - Idaho
   - Montana

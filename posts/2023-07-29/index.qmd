@@ -9,7 +9,7 @@ lightbox:
   loop: true
 categories:
   - "2023"
-  - British Columbia
+  - BC
   - Alberta
   - Suzili
   - Electra
