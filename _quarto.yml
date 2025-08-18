@@ -7,7 +7,7 @@ project:
 website:
   site-url: https://places.volumen.ca
   favicon: favicon.ico
-  title: "places"
+  title: "Places"
   navbar:
     right:
       - about.qmd
