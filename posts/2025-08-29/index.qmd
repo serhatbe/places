@@ -1,7 +1,7 @@
 ---
 title: "Whistler"
 date: "2025-08-29"
-#date-modified: "2025-07-30"
+date-modified: "2025-08-30"
 lightbox:
   match: auto
   effect: zoom # fade, zoom
@@ -52,9 +52,9 @@ Hotel: Pangea Pod Hotel
 
 ![Peak 2 Peak Gondola Terminal](images/Whistler13.jpeg){group="Whistler"}
 
-![Cloudraker Skybridge](images/Whistler14.jpeg){group="Whistler"}
+![Cloudraker Skybridge from Whistler Village](images/Whistler14.jpeg){group="Whistler"}
 
-![Express Chair](images/Whistler15.jpeg){group="Whistler"}
+![Express Chair to Cloudraker Skybridge](images/Whistler15.jpeg){group="Whistler"}
 
 ![Cloudraker Skybridge and Raven’s Eye](images/Whistler16.jpeg){group="Whistler"}
 
@@ -72,7 +72,7 @@ Hotel: Pangea Pod Hotel
 
 ![The High Note Trail (counter clock-wise direction)](images/Whistler23.jpeg){group="Whistler"}
 
-![Whistler Mountain, (Left to Right) Alpha Lake, Nita Lake, Alta Lake and Green Lake](images/Whistler24.jpeg){group="Whistler"}
+![The four lakes from Whistler Mountain, (Left to Right) Alpha Lake, Nita Lake, Alta Lake and Green Lake](images/Whistler24.jpeg){group="Whistler"}
 
 ![Cheakamus Lake](images/Whistler25.jpeg){group="Whistler"}
 
