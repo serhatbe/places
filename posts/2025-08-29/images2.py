@@ -3,10 +3,10 @@ from pathlib import Path
 
 # === Settings ===
 folder = Path(__file__).parent        # Script folder (one level above images/)
-base_name = "Whistler"                # Base name for images and markdown
+base_name = "Whistler"                # Base name for images and text output
 ext = ".jpeg"                         # Desired final extension (keep the dot)
 images_subfolder = folder / "images"  # Expected images folder
-output_md = images_subfolder / f"{base_name}.md"  # Markdown output file
+output_txt = images_subfolder / f"{base_name}.txt"  # TXT output file
 
 def normalize_and_rename_images():
     """
@@ -40,9 +40,9 @@ def normalize_and_rename_images():
     print(f"Processed {len(renamed_files)} image(s).")
     return renamed_files
 
-def generate_markdown(images):
+def generate_text(images):
     """
-    Write Markdown file with one image per line, captions from filenames.
+    Write TXT file with one image per line, captions from filenames.
     """
     lines = []
     for img in images:
@@ -50,13 +50,13 @@ def generate_markdown(images):
         line = f'![{label}](images/{img.name}){{group="{base_name}"}}'
         lines.append(line)
 
-    output_md.write_text("\n\n".join(lines), encoding="utf-8")
-    print(f"Markdown written to {output_md}")
+    output_txt.write_text("\n\n".join(lines), encoding="utf-8")
+    print(f"Text gallery written to {output_txt}")
 
 def main():
     images = normalize_and_rename_images()
     if images:
-        generate_markdown(images)
+        generate_text(images)
 
 if __name__ == "__main__":
     main()

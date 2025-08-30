@@ -60,7 +60,7 @@ Hotel: Pangea Pod Hotel
 
 ![Cloudraker Skybridge](images/Whistler17.jpeg){group="Whistler"}
 
-![The Black Tusk. Considered to be the remnant of an extinct andesitic stratovolcano which formed between about 1.3 and 1.1 million years ago. ](images/Whistler18.jpeg){group="Whistler"}
+![The Black Tusk. Considered to be the remnant of an extinct andesitic stratovolcano which formed between about 1.3 and 1.1 million years ago.](images/Whistler18.jpeg){group="Whistler"}
 
 ![Whistler Mountain Inukshuk](images/Whistler19.jpeg){group="Whistler"}
 
