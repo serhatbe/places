@@ -24,102 +24,88 @@ Hotel: Pangea Pod Hotel
 
 ## Photos
 
-![Whistler](images/Whistler32.jpeg){group="Whistler"}
+![Raven's Eye Outlook](images/Whistler22.jpeg){group="Whistler"}
 
 ![Britannia Village](images/Whistler01.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler04.jpeg){group="Whistler"}
+![Pangea Pod Hotel](images/Whistler03.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler05.jpeg){group="Whistler"}
+![Our pod](images/Whistler02.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler03.jpeg){group="Whistler"}
+![Whistler Village](images/Whistler04.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler02.jpeg){group="Whistler"}
+![Whistler Village](images/Whistler05.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler07.jpeg){group="Whistler"}
+![Whistler Village](images/Whistler06.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler08.jpeg){group="Whistler"}
+![Whistler Village Gondola](images/Whistler07.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler09.jpeg){group="Whistler"}
+![Cloudraker Skybridge](images/Whistler08.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler10.jpeg){group="Whistler"}
+![Whistler Mountain](images/Whistler09.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler11.jpeg){group="Whistler"}
+![Whistler Mountain](images/Whistler10.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler13.jpeg){group="Whistler"}
+![Roundhouse Umbrella Bar, Whistler Mountain](images/Whistler11.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler14.jpeg){group="Whistler"}
+![Peak 2 Peak Gondola to Blackcomb Mountain](images/Whistler12.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler15.jpeg){group="Whistler"}
+![Peak 2 Peak Gondola Terminal](images/Whistler13.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler16.jpeg){group="Whistler"}
+![Cloudraker Skybridge](images/Whistler14.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler17.jpeg){group="Whistler"}
+![Express Chair](images/Whistler15.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler18.jpeg){group="Whistler"}
+![Cloudraker Skybridge and Raven’s Eye](images/Whistler16.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler19.jpeg){group="Whistler"}
+![Cloudraker Skybridge](images/Whistler17.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler20.jpeg){group="Whistler"}
+![The Black Tusk. Considered to be the remnant of an extinct andesitic stratovolcano which formed between about 1.3 and 1.1 million years ago. ](images/Whistler18.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler21.jpeg){group="Whistler"}
+![Whistler Mountain Inukshuk](images/Whistler19.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler23.jpeg){group="Whistler"}
+![Whistler Mountain](images/Whistler20.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler24.jpeg){group="Whistler"}
+![The High Note trail](images/Whistler21.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler25.jpeg){group="Whistler"}
+![Raven's Eye](images/Whistler22.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler27.jpeg){group="Whistler"}
+![The High Note Trail (counter clock-wise direction)](images/Whistler23.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler28.jpeg){group="Whistler"}
+![Whistler Mountain, (Left to Right) Alpha Lake, Nita Lake, Alta Lake and Green Lake](images/Whistler24.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler29.jpeg){group="Whistler"}
+![Cheakamus Lake](images/Whistler25.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler30.jpeg){group="Whistler"}
+![Cheakamus Lake lunch stop](images/Whistler26.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler31.jpeg){group="Whistler"}
+![Cheakamus Lake Lookout](images/Whistler27.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler32.jpeg){group="Whistler"}
+![Cheakamus Lake from High Note trail](images/Whistler28.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler33.jpeg){group="Whistler"}
+![Junction: High Note trail and Half Note trail](images/Whistler29.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler34.jpeg){group="Whistler"}
+![Cheakamus Lake from High Note trail](images/Whistler30.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler35.jpeg){group="Whistler"}
+![High Note trail](images/Whistler31.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler36.jpeg){group="Whistler"}
+![High Note trail](images/Whistler32.jpeg){group="Whistler"}
 
-![CheakamusLake](images/Whistler37.jpeg){group="Whistler"}
+![High Note trail, 9.5 km, elevation gain 300 m](images/Whistler33.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler38.jpeg){group="Whistler"}
+![High Note trail, 9.5 km, elevation gain 300 m](images/Whistler34.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler39.jpeg){group="Whistler"}
+![Whistler Village](images/Whistler35.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler40.jpeg){group="Whistler"}
+![Provisions, Whistler Village](images/Whistler36.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler41.jpeg){group="Whistler"}
+![Fitzsimmons Creek Bridge](images/Whistler37.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler42.jpeg){group="Whistler"}
+![Whistler Village](images/Whistler38.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler43.jpeg){group="Whistler"}
+![Rainbow Park](images/Whistler39.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler44.jpeg){group="Whistler"}
+![Alta Lake at Rainbow Park](images/Whistler40.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler45.jpeg){group="Whistler"}
+![From Sea-to-Sky Highway](images/Whistler41.jpeg){group="Whistler"}
 
-![Whistler](images/Whistler46.jpeg){group="Whistler"}
-
-![Provisions, Whistler](images/Whistler47.jpeg){group="Whistler"}
-
-![Whistler](images/Whistler48.jpeg){group="Whistler"}
-
-![Whistler](images/Whistler49.jpeg){group="Whistler"}
-
-![Whistler](images/Whistler50.jpeg){group="Whistler"}
-
-![Whistler](images/Whistler51.jpeg){group="Whistler"}
-
-![Whistler](images/Whistler52.jpeg){group="Whistler"}
-
-![BReD organic sourdough bakery, Whistler Creekside Village](images/Whistler53.jpeg){group="Whistler"}
+![BReD organic sourdough bakery, Whistler Creekside Village](images/Whistler42.jpeg){group="Whistler"}
