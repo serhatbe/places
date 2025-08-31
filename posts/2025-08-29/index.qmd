@@ -1,7 +1,7 @@
 ---
 title: "Whistler"
 date: "2025-08-29"
-date-modified: "2025-08-30"
+date-modified: "2025-08-31"
 lightbox:
   match: auto
   effect: zoom # fade, zoom
@@ -14,13 +14,35 @@ categories:
 
 ## Brief Summary
 
-A quick get away to Britannia Beach, Squamish and Whistler.
+We had an amazing hiking trip up to Whistler.
 
 ## Miscellaneous Notes
 
 Travel dates: 2025-08-26 - 2025-08-28
 
-Hotel: Pangea Pod Hotel
+Hotel: Pangea Pod Hotel (\$273.32 for 2 nights).
+
+First things first, we stopped by Britannia Village to check out the new housing and retail stores, opened late August 2025. There is a very nice bakery.
+
+Next, we headed to Squamish and the tourist centre. There’s some new housing at the south end of Squamish, and it looks pretty good but is a dense area.
+
+After that, we grabbed a pizza at Function Junction. It was okay, and shared a carrot cake at the original Pure Bread location in Function Junction. We learned all about the history of the place. The bakery has been acquired by Coho Collective Kitchens Inc., the Vancouver-based food technology and commercial real estate company that provides private and shared kitchen and food production space to a variety of businesses.
+
+Our pod hotel was clean and comfortable
+
+For dinner, we went to Hunter Gather in Whistler Village. They had a very good brisket. After dinner, we bought gondola tickets (\$210 per day for the two of us).
+
+We hiked the High Note trail (9.5 km). It was a bit of a challenge, but the scenery was amazing. Unfortunately, due to lighting, everybody had to come down. Peak 2 Peak was already canceled, so that was a bummer.
+
+We had breakfast at Provisions in Whistler Village for a croissant (excellent) and a blueberry muffin. We learned that Toptable Group owns Provisions, Araxi, Bar Oso, Il Caminetto, Blue Water Cafe, Thierry, and many other high-end restaurants.
+
+We walked to Upper Village and had a coffee at % Arabica back in Whistler Village. It was a new café for us, seemingly Japanese, and the coffee was sweet.
+
+We drove to Lost Lake and Rainbow Park, very nice by Alta Lake.
+
+We bought The Beer Farmers' lager and white beer, and sourdough bread from the BReD organic sourdough bakery at Whistler Creekside Village.
+
+We arrived home safely before dark, feeling refreshed and rejuvenated. It was a wonderful hiking trip.
 
 ## Photos
 
@@ -40,7 +62,7 @@ Hotel: Pangea Pod Hotel
 
 ![Whistler Village Gondola](images/Whistler07.jpeg){group="Whistler"}
 
-![Cloudraker Skybridge](images/Whistler08.jpeg){group="Whistler"}
+![Cloudraker Skybridge from Whistler Village Gondola](images/Whistler08.jpeg){group="Whistler"}
 
 ![Whistler Mountain](images/Whistler09.jpeg){group="Whistler"}
 
@@ -108,4 +130,4 @@ Hotel: Pangea Pod Hotel
 
 ![From Sea-to-Sky Highway](images/Whistler41.jpeg){group="Whistler"}
 
-![BReD organic sourdough bakery, Whistler Creekside Village](images/Whistler42.jpeg){group="Whistler"}
+![Sourdough bread (\$14) from BReD organic sourdough bakery, Whistler Creekside Village](images/Whistler42.jpeg){group="Whistler"}
