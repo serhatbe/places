@@ -11,3 +11,4 @@
 
 # Allow shared workspace settings
 !.vscode/settings.json
+**/*.quarto_ipynb
